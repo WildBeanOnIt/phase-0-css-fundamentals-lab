@@ -109,7 +109,7 @@ the browser.
 ### Deliverables
 
 - **Update the header**: the text is a little wonky being aligned on the left
-  like that. Provide a property that aligns it in the center instead.
+  like that. Provide a property that aligns it in the center instead. --------
 
 - **Center our image**: We only have one image on the page and we would like it
   centered!
